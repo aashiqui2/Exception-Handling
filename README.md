@@ -61,7 +61,7 @@ Before you start, ensure you are familiar with:
 <h3 align="left">🎥 Future Tutorial</h3>
 <p align="justify">
 A detailed explanation video for this repository will be available soon on my YouTube channel  
-<a href="https://www.youtube.com/@aashiqui" target="_blank"><b>@CodeWithAashiq</b></a>.
+<a href="https://www.youtube.com/@codewithaashiq" target="_blank"><b>@CodeWithAashiq</b></a>.
 Stay tuned for updates!
 </p>
 
