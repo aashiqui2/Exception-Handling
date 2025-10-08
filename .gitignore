@@ -1,0 +1,58 @@
+# ==========================================
+#  Eclipse Java Project .gitignore
+# ==========================================
+
+# 🧠 Project settings & metadata (Eclipse)
+.metadata/
+.settings/
+.project
+.classpath
+
+# 🧩 SonarLint (IDE plugin configs)
+.sonarlint/
+.sonar/
+
+# 🧱 Build outputs (compiled .class files)
+bin/
+target/
+build/
+out/
+
+# 🧾 Logs & temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# ⚙️ IDE-specific folders (in case of other IDE usage)
+.idea/
+.vscode/
+
+# 📦 Java package manager files (in case used later)
+*.jar
+*.war
+*.ear
+
+# 🧩 OS-specific junk files
+ehthumbs.db
+Desktop.ini
+
+# 🚫 Generated files (reports, coverage, etc.)
+coverage/
+test-output/
+reports/
+
+# 🖼️ Media / assets (optional, comment if you want to keep)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# ✅ Keep source and docs
+!src/
+!README.md
+!LICENSE
