@@ -2,10 +2,6 @@ package com.service.impl;
 
 import com.service.CalculatorService;
 
-/**
- * @author abhishekvermaa10
- *
- */
 public class CalculatorServiceImpl2 implements CalculatorService {
 	@Override
 	public void divide(Integer... array) {

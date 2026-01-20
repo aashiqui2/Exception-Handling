@@ -8,6 +8,7 @@ public class CalculatorServiceImpl2 implements CalculatorService {
 	public void divide(Integer... array) {
 		int quotient = 0;
 		if (array[1] == 0) {
+			// unchecked Exception don't need throws in method signature
 			throw new NullPointerException("Cannot divide " + array[0] + " by " + array[1]);
 		}
 		quotient = array[0] / array[1];
